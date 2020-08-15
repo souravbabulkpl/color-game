@@ -290,8 +290,8 @@ class Color:
             
             #frame of GUI
         self.root.title("Login Form")
-        self.root.minsize(200,100)
-        self.root.configure(background="#00a65a")
+        self.root.minsize(250,100)
+        self.root.configure(background="#00a157")
 
 
 
